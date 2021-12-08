@@ -1,6 +1,6 @@
 # Test Title
 
-[TOC]
+{% include toc.html html=content %}
 
 # Entry 1
 asdf
