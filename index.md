@@ -1,9 +1,13 @@
-# Test Title
+Test Title
+====================
 
-{% include toc.html html=content %}
+{:toc}
 
-# Entry 1
+Entry 1
+---------------------
 asdf
 
-# Entry 2
+Entry 2
+---------------------
 asdf
+
