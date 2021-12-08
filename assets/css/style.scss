@@ -6,7 +6,7 @@
 nav {
     display: flex;
     flex-wrap: wrap;
-
+    width: 100%;
     a {
         text-decoration: none;
         display: block;
@@ -17,7 +17,7 @@ nav {
         margin: 0;
         font-family: sans-serif;
 
-        :hover {
+        &:hover {
             background-color: #777777;
             color: #ffffff;
         }
