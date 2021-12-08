@@ -11,3 +11,4 @@ Entry 2
 ---------------------
 asdf
 
+*now with kramdown*
