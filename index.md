@@ -1,8 +1,6 @@
 Test Title
 ====================
 
-{:toc}
-
 Entry 1
 ---------------------
 asdf
@@ -10,5 +8,3 @@ asdf
 Entry 2
 ---------------------
 asdf
-
-*now with kramdown*
